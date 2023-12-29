@@ -1,0 +1,47 @@
+* {
+    margin: auto;
+}
+
+table,
+tr,
+td,
+th {
+    border: 2px solid black;
+    margin-top: 2%;
+    height: 5vh;
+    width: 70vw;
+    text-align: center;
+
+
+}
+
+.h1 {
+    width: 100vw;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5%;
+}
+
+
+th {
+    background-color: black;
+    color: aliceblue;
+}
+
+.t1 {
+    background-color: rgb(32, 211, 32);
+}
+.t2{
+    background-color:rgb(255, 81, 0);
+}
+.t3{
+    background-color:rgb(32, 211, 32);
+}
+.t4{
+    background-color: rgb(255, 81, 0);
+}   
+.t5{
+    background-color:rgb(32, 211, 32);
+}
